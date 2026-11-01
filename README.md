@@ -4,7 +4,8 @@
 **Python Developer · Data Processing · Backend Basics**
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Jakevirtus)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:1lebedevsasha1@gmail.com)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.ru/fdkfejkqwj)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexanderlebedev339@gmail.com)
 
 ---
 
