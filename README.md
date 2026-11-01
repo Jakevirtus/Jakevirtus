@@ -1,10 +1,14 @@
-## Привет, я Александр 👋
+<div align="center">
+
+# Привет, я Александр 👋
 
 **Python Developer · Data Processing · Backend Basics**
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Jakevirtus)
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.ru/fdkfejkqwj)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexanderlebedev339@gmail.com)
+
+</div>
 
 ---
 
@@ -75,21 +79,7 @@ Python-приложение для анализа банковских опер�
 
 ### 📫 Контакты
 - Telegram: [@Jakevirtus](https://t.me/Jakevirtus)
-- Vkontakte: https://vk.ru/fdkfejkqwj
-- Email: alexanderlebedev339@gmail.com 
+- VK: [https://vk.ru/fdkfejkqwj](https://vk.ru/fdkfejkqwj)
+- Email: alexanderlebedev339@gmail.com
 
-Код должен быть чистым. Тесты — зелеными.  🚀
-<!--
-**Jakevirtus/Jakevirtus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Код должен быть чистым. Тесты — зелеными. А `flake8` — молчаливым. 🚀
