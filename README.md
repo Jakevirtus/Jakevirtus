@@ -1,5 +1,4 @@
-## Hi there 👋
-# Привет, я Александр 👋
+## Привет, я Александр 👋
 
 **Python Developer · Data Processing · Backend Basics**
 
