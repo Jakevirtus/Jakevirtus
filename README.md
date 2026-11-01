@@ -77,6 +77,7 @@ Python-приложение для анализа банковских опер�
 ### 📫 Контакты
 - Telegram: [@Jakevirtus](https://t.me/Jakevirtus)
 - Vkontakte: https://vk.ru/fdkfejkqwj
+- Email: alexanderlebedev339@gmail.com 
 
 Код должен быть чистым. Тесты — зелеными.  🚀
 <!--
